@@ -5,7 +5,12 @@ h1 {
 }
 
 #slider {
-  background-image: url('../images/header.png');
+  background-image: url('../images/hisaichi5518.jpg');
   height: 447px;
   margin: auto;
+}
+
+#keynote-info {
+  background: #ffffff;
+  padding: 16px;
 }
